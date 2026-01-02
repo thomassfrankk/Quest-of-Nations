@@ -20,14 +20,14 @@ All game data (high scores and settings) is stored locally on your device only. 
 ## Third-Party Services
 
 The app uses:
-- **Google Mobile Ads** (in free version) - for displaying advertisements
+- **Google Mobile Ads** - for displaying advertisements
 - **StoreKit** - for in-app purchases (premium version)
 
 These services may collect their own data according to their privacy policies.
 
 ## Contact
 
-For questions about this Privacy Policy, please contact:
+For app support or questions about this Privacy Policy, please contact:
 
 **Thomas Frank**  
 Email: thomasfrank.apps@gmail.com
