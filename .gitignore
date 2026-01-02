@@ -1,0 +1,39 @@
+# Xcode
+.DS_Store
+xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcworkspace/xcuserdata/
+DerivedData/
+build/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Secrets & Keys
+SecretsManager.swift
+Secrets.swift
+Config.swift
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.AppleDouble
+.LSOverride
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# Temporary files
+*.tmp
+*.temp
